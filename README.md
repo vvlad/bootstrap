@@ -1,0 +1,4 @@
+bootstrap
+=========
+
+linux bootstrap script
